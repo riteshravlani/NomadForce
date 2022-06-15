@@ -319,6 +319,36 @@
     <Content Include="config\Lang\zh-CN.user.xml" />
     <Content Include="config\logviewer.searches.config.js" />
     <Content Include="Global.asax" />
+    <Content Include="HTML\css\aos.css" />
+    <Content Include="HTML\css\bootstrap-icons.css" />
+    <Content Include="HTML\css\bootstrap.min.css" />
+    <Content Include="HTML\css\magnific-popup.css" />
+    <Content Include="HTML\css\templatemo-nomad-force.css" />
+    <Content Include="HTML\images\elena-rabkina-eVVzwsNhNf4-unsplash.jpg" />
+    <Content Include="HTML\images\news\caroline-lm-uqveD8dYPUM-unsplash.jpg" />
+    <Content Include="HTML\images\news\jean-philippe-delberghe-MmanXAs1sKw-unsplash.jpeg" />
+    <Content Include="HTML\images\news\maria-stewart-p4tj0g-_aMM-unsplash.jpeg" />
+    <Content Include="HTML\images\people\asia-business-woman-feeling-happy-smiling-looking-camera-while-relax-home-office.jpg" />
+    <Content Include="HTML\images\people\happy-african-american-professional-manager-smiling-looking-camera-headshot-portrait.jpg" />
+    <Content Include="HTML\images\people\project-leder-with-disabilities-looking-front-sitting-immobilized-wheelchair-business-office-room.jpg" />
+    <Content Include="HTML\images\people\studio-shot-beautiful-happy-retired-caucasian-female-with-pixie-hairdo-crossing-arms-her-chest-having-confident-look-smiling-broadly.jpg" />
+    <Content Include="HTML\images\people\working-business-lady.jpg" />
+    <Content Include="HTML\images\portfolio\severin-candrian-nn3uIZqmUtE-unsplash.jpeg" />
+    <Content Include="HTML\images\portfolio\thought-catalog-gv-T-OjLe4c-unsplash.jpeg" />
+    <Content Include="HTML\images\portfolio\tyler-nix-Y1drF0Y3Oe0-unsplash.jpeg" />
+    <Content Include="HTML\images\portfolio\visuals-Y4qzW3AsvqI-unsplash.jpeg" />
+    <Content Include="HTML\index.html" />
+    <Content Include="HTML\js\aos.js" />
+    <Content Include="HTML\js\bootstrap.bundle.min.js" />
+    <Content Include="HTML\js\custom.js" />
+    <Content Include="HTML\js\jquery.magnific-popup.min.js" />
+    <Content Include="HTML\js\jquery.min.js" />
+    <Content Include="HTML\js\jquery.sticky.js" />
+    <Content Include="HTML\js\magnific-popup-options.js" />
+    <Content Include="HTML\js\scrollspy.min.js" />
+    <Content Include="HTML\news-detail.html" />
+    <Content Include="HTML\videos\792bd98f3e617786c850493560e11c45.jpg" />
+    <Content Include="HTML\videos\814dc43e870597176cad645798825c03.mp4" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -336,6 +366,9 @@
     <Content Include="config\HealthChecks.config" />
     <Content Include="config\ClientDependency.config" />
     <Content Include="config\BackOfficeTours\getting-started.json" />
+    <Content Include="HTML\fonts\bootstrap-icons.woff" />
+    <Content Include="HTML\fonts\bootstrap-icons.woff2" />
+    <Content Include="HTML\videos\.DS_Store" />
     <None Include="packages.config" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\Partials\Grid\Editors\Textstring.cshtml" />
@@ -355,9 +388,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="HTML\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
