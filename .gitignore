@@ -387,4 +387,3 @@ App_Data/TEMP/
 # Ensure VisualStudio.gitignore is included before this
 !**/App_Data/[Pp]ackages/
 !**/[Uu]mbraco/[Dd]eveloper/[Pp]ackages
-/App_Data/Models
