@@ -382,7 +382,11 @@
     <Content Include="Views\Partials\Grid\Bootstrap3-Fluid.cshtml" />
     <Content Include="Views\Partials\BlockList\Default.cshtml" />
     <Content Include="Views\RiteshHome.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\SampadaHome.cshtml" />
+=======
+    <Content Include="Views\SaiHome.cshtml" />
+>>>>>>> 9732c8fed8664d30aa8d2e09ae6d9cbba74ac4f0
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
